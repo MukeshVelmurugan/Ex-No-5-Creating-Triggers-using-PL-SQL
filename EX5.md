@@ -70,7 +70,8 @@ SELECT * FROM sal_log;
 
 ### Output:
 ![WhatsApp Image 2023-09-26 at 22 29 52](https://github.com/DhanushPalani/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/121594640/98d6405f-b231-485b-b7c5-38e605977906)
-![Screenshot 2023-09-27 155015](https://github.com/Nagul71/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118661118/789b4d02-718d-4f9c-b4e3-defb7a76c0ef)
+![image](https://github.com/MukeshVelmurugan/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/118707363/906cf978-6928-4835-9209-52b3379f4af7)
+
 
 
 ### Result:
